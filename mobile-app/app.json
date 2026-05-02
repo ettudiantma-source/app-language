@@ -23,6 +23,11 @@
       "package": "com.lingualearn.app"
     },
     "scheme": "lingualearn",
-    "plugins": ["expo-speech"]
+    "plugins": ["expo-speech"],
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "name": "LinguaLearn"
+    }
   }
 }
