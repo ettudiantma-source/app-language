@@ -4,22 +4,12 @@
     "slug": "lingua-learn",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#4F46E5"
-    },
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.lingualearn.app"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#4F46E5"
-      },
       "package": "com.lingualearn.app"
     },
     "scheme": "lingualearn",
