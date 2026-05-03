@@ -16,7 +16,7 @@
     "plugins": [],
     "web": {
       "bundler": "metro",
-      "output": "static",
+      "output": "single",
       "name": "LinguaLearn"
     }
   }
